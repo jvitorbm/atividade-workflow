@@ -1,0 +1,24 @@
+{
+  "name": "atividadeworkflow",
+  "description": "Atividade pratica para conlusao do modulo workflow",
+  "main": "index.js",
+  "authors": [
+    "Joao Vitor"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "bootstrap",
+    "aula",
+    "workflow",
+    "entrega",
+    "modulo"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

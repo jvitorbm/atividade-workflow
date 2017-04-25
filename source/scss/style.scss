@@ -1,0 +1,9 @@
+#navbar {
+        $navbar-width: 800px;
+        $items: 5;
+        width: $navbar-width;
+        li {
+            float: left;
+            width: $navbar-width/$items - 10px;
+            }
+        }
